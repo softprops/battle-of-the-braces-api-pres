@@ -31,7 +31,7 @@ HackRU / 21042012
 <ul>
 <li><a href="http://meetup.com/jobs">meetup.com/jobs</a></li>
 <li>jobs@meetup.com</li>
-<li><a href="making.meetup.com/gitCurses">making.meetup.com/gitcurses</a></li>
+<li><a href="http://making.meetup.com/post/21273810443/cursemetrics">making.meetup.com/post/21273810443/cursemetrics</a></li>
 </div>
 
 !SLIDE
@@ -81,7 +81,7 @@ curl http://api.meetup.com/docs 2>/dev/null | pj --
 
 # /stream ~>
 
-* [meetup.github.com/stream](http://meetup.github.com/stream/)
+* [meetup.github.com](http://meetup.github.com/)
 * [bitly.com/meetupjs](https://bitly.com/meetupjs)
 * auth not required
 * connection throttling
