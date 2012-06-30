@@ -1,17 +1,7 @@
 !SLIDE
 
 # Meetup _API_
-HackRU / 21042012
-
-!SLIDE
-<div id="me">
-<h1>I</h1>
-<ul>
-<li>am <em>Doug</em> (hi)</li>
-<li>code for <em>Meetup</em> (~1.2yr)</li>
-<li>code for <em>fun</em> (<a href="http://github.com/softprops">github</a>)</li>
-</ul>
-</div>
+{ battle\_of\_the\_braces.js }
 
 !SLIDE
 
@@ -19,8 +9,8 @@ HackRU / 21042012
 
 * Worlds largest hosted collection of
  _local communities_
-* 100.5+K Meetups
-* 10.6+M members
+* 105+K Meetups
+* 11.3+M Members
 * 2+M YES RSVPs a month
 * _face_ to _face_ platform
 
@@ -54,7 +44,7 @@ HackRU / 21042012
 
 <pre><code>
 # documentation hack idea
-curl http://api.meetup.com/docs 2>/dev/null | pj --
+curl http://api.meetup.com/docs 2>/dev/null | pj -- | less
 </code></pre>
 
 !SLIDE
