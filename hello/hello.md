@@ -1,7 +1,7 @@
 !SLIDE
 
 # Meetup _API_
-{ battleOfTheBraces.js }
+{ battleOfTheBraces.php }
 
 !SLIDE
 
@@ -10,7 +10,7 @@
 * Worlds largest hosted collection of
  _local communities_
 * 105+K Meetups
-* 11.3+M Members
+* 11.4+M Members
 * 2+M YES RSVPs a month
 * _face_ to _face_ platform
 
@@ -21,7 +21,7 @@
 <ul>
 <li><a href="http://meetup.com/jobs">meetup.com/jobs</a></li>
 <li>jobs@meetup.com</li>
-<li><a href="http://making.meetup.com/post/21273810443/cursemetrics">making.meetup.com/post/21273810443/cursemetrics</a></li>
+<li><a href="http://making.meetup.com/">making.meetup.com</a></li>
 </div>
 
 !SLIDE
@@ -98,6 +98,12 @@ mu.Rsvps(function(rsvp) {
 * [meetup.com/Meetup-API-Testing](http://www.meetup.com/Meetup-API-Testing/)
 * [groups.google.com/group/meetup-api](https://groups.google.com/group/meetup-api/)
 * @[meetupApi](http://twitter.com/meetupapi)
+
+---
+
+* [github.com/blobaugh/Meetup-API-client-for-PHP/wiki/](https://github.com/blobaugh/Meetup-API-client-for-PHP/wiki/)
+* [github.com/wizonesolutions/meetup_api](https://github.com/wizonesolutions/meetup_api)
+* [drupal.org/project/meetup_api](http://drupal.org/project/meetup_api)
 
 !SLIDE
 
