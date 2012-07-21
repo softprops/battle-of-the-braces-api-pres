@@ -1,5 +1,5 @@
 {
-  "title": "hackru | meetup",
+  "title": "battle of the braces (js) | meetup",
   "sections": [
     "hello"
   ]

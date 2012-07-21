@@ -1,7 +1,7 @@
 !SLIDE
 
 # Meetup _API_
-{ battle\_of\_the\_braces.js }
+{ battleOfTheBraces.js }
 
 !SLIDE
 
@@ -44,7 +44,7 @@
 
 <pre><code>
 # documentation hack idea
-curl http://api.meetup.com/docs 2>/dev/null | pj -- | less
+curl http://api.meetup.com/docs 2>/dev/null | pj --
 </code></pre>
 
 !SLIDE
